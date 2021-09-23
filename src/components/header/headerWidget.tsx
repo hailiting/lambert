@@ -1,12 +1,13 @@
 import React from "react";
 // import { Link } from "react-router-dom";
+import config from "../../config/index";
 import "./headerWidget.less";
 function HeaderWidget() {
   return (
     <div className="header">
       <div className="headerWidget">
         <h1>
-          <a href="/" title="0xLambert">
+          <a href={config.preLink + "/"} title="0xLambert">
             <img src={require("./img/logo.png")} alt="logo" />
           </a>
         </h1>
