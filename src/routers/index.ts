@@ -1,5 +1,6 @@
 import React from "react";
 import { HomeIndex } from "../page";
+import config from "../config/index";
 export type RouterType = {
   path: string;
   component: React.LazyExoticComponent<any>;
@@ -8,7 +9,7 @@ export type RouterType = {
 };
 
 const HomeRouter: RouterType = {
-  path: "/",
+  path: config.preLink + "/",
   component: HomeIndex,
   root: [],
   notExect: false,
