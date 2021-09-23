@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/lambert/static/css/main.9223e807.chunk.css",
+    "main.js": "/lambert/static/js/main.2fa8b3e1.chunk.js",
+    "main.js.map": "/lambert/static/js/main.2fa8b3e1.chunk.js.map",
+    "runtime-main.js": "/lambert/static/js/runtime-main.5e0aed66.js",
+    "runtime-main.js.map": "/lambert/static/js/runtime-main.5e0aed66.js.map",
+    "static/js/2.602a113e.chunk.js": "/lambert/static/js/2.602a113e.chunk.js",
+    "static/js/2.602a113e.chunk.js.map": "/lambert/static/js/2.602a113e.chunk.js.map",
+    "static/css/3.8a468b97.chunk.css": "/lambert/static/css/3.8a468b97.chunk.css",
+    "static/js/3.6e948124.chunk.js": "/lambert/static/js/3.6e948124.chunk.js",
+    "static/js/3.6e948124.chunk.js.map": "/lambert/static/js/3.6e948124.chunk.js.map",
+    "index.html": "/lambert/index.html",
+    "precache-manifest.b2f0d0a2765d0d409ca24299d5d1e65b.js": "/lambert/precache-manifest.b2f0d0a2765d0d409ca24299d5d1e65b.js",
+    "service-worker.js": "/lambert/service-worker.js",
+    "static/css/3.8a468b97.chunk.css.map": "/lambert/static/css/3.8a468b97.chunk.css.map",
+    "static/css/main.9223e807.chunk.css.map": "/lambert/static/css/main.9223e807.chunk.css.map",
+    "static/js/2.602a113e.chunk.js.LICENSE.txt": "/lambert/static/js/2.602a113e.chunk.js.LICENSE.txt",
+    "static/media/homeContainer.less": "/lambert/static/media/bg.853850ef.png",
+    "static/media/App.less": "/lambert/static/media/erasbd.d5213044.ttf",
+    "static/media/pc01.png": "/lambert/static/media/pc01.a3a32c4d.png",
+    "static/media/pc02.png": "/lambert/static/media/pc02.5f8bc9a7.png",
+    "static/media/pc03.png": "/lambert/static/media/pc03.524e5004.png",
+    "static/media/pc04.png": "/lambert/static/media/pc04.35046cab.png",
+    "static/media/pc05.png": "/lambert/static/media/pc05.1dd6ac3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0aed66.js",
+    "static/js/2.602a113e.chunk.js",
+    "static/css/main.9223e807.chunk.css",
+    "static/js/main.2fa8b3e1.chunk.js"
+  ]
+}
